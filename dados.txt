@@ -1,0 +1,11 @@
+Dados do aluno
+
+-Primeiro Nome: Flávio 
+-Profissão: Estudante
+-Cidade: São Paulo
+-O que faz nas horas vaga: Jogo video-game, escrevo histórias e converso com meus amigos.
+-Feedback sobre o curso Qualidade de Software: Um curso bem didárico e atencioso com os novatos.
+-Feedback sobre a plataforma de estudo da EBAC: Existem alguns bugs que atrapalham na praticidade, mas no geral exerce bem sua função.
+
+Obrigado!!!
+
